@@ -1,3 +1,8 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayeedk06)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 ### Hi👋, current society knows me as Sayeed Md. Shaiban
 
 <p>I am a fresh graduate from North South University with a Bachelor of Science in Computer Science and Engineering.<p>
