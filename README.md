@@ -1,6 +1,6 @@
 ### Hi👋, current society knows me as Sayeed Md. Shaiban
-<p>I am a fresh graduate from North South University with a Bachelor of Science in Computer Science and Engineering.<p>
-<p>Find out more about my work in: <a href="https://sayeedk06.github.io/">https://sayeedk06.github.io/</a></p>
+<p>I finished my Bachelor of Science from North South University in Computer Science and Engineering.<p>
+<p>Find out more about my work in: <a href="https://sayeedshaiban.site/">https://sayeedshaiban.site/</a></p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
