@@ -1,5 +1,6 @@
 ### Hi👋, current society knows me as Sayeed Md. Shaiban
-<p>I finished my Bachelor of Science from North South University in Computer Science and Engineering.<p>
+<p>I finished my Masters in Information Technology from Queensland University of Technology with a major in Computer Science.<p>
+<p>I enjoy working with backend technologies to solve real world problems. My tech stack includes mostly expressJS, React, ReactNative and python.</p>
 <p>Find out more about my work in: <a href="https://sayeedshaiban.site/">https://sayeedshaiban.site/</a></p>
 
 
@@ -30,10 +31,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 🌱 I’m currently studying in Queensland University of Technology with a major in Computer Science
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: <a href="mailto:n11672005@qut.edu.au">n11672005@qut.edu.au</a>
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
